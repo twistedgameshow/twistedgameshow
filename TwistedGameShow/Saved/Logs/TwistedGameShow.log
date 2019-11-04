@@ -1444,3 +1444,183 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.04-09.47.50:115][167]BlueprintLog: New page: Compile BP_SaveGameFunctions
 [2019.11.04-09.47.50:167][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
 [2019.11.04-09.47.50:827][230]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctionsF5395C2A406315232CCE62929E20313E.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.49.50:528][187]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.04-09.49.51:693][310]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.49.51:748][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.11.04-09.49.52:631][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.04-09.49.52:645][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.49.52:645][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.49.52:645][385]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:49:52 AM)
+[2019.11.04-09.49.52:645][385]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.49.52:655][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009388s)
+[2019.11.04-09.49.52:656][385]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.49.52:656][385]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.11.04-09.49.52:656][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.010700s)
+[2019.11.04-09.49.52:698][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.04-09.49.52:722][385]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.49.52:735][385]LogInit: FAudioDevice initialized.
+[2019.11.04-09.49.52:746][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.49.52:746][385]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.49.52:748][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.49.52
+[2019.11.04-09.49.52:749][385]LogWorld: Bringing up level for play took: 0.002487
+[2019.11.04-09.49.52:749][385]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.11.04-09.49.52:757][385]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.417
+[2019.11.04-09.49.52:757][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.49.54:313][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.49.54:314][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.49.54:314][526]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.49.54:323][526]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.04-09.49.54:370][526]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.49.54:382][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.49.54:382][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.49.54:427][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.11.04-09.49.54:450][527]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.11.04-09.50.02:146][352]BlueprintLog: New page: Compile TestingMap
+[2019.11.04-09.50.02:362][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.04-09.50.02:755][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.04-09.50.02:981][385]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap29A9A0014DC8DBF48609DDBEF8E66498.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap.umap'
+[2019.11.04-09.50.02:999][385]LogFileHelpers: Saving map 'TestingMap' took 0.283
+[2019.11.04-09.50.06:015][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.04-09.50.06:029][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.50.06:030][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.50.06:030][696]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:50:06 AM)
+[2019.11.04-09.50.06:030][696]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.50.06:040][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009891s)
+[2019.11.04-09.50.06:041][696]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.50.06:041][696]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.11.04-09.50.06:041][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.011218s)
+[2019.11.04-09.50.06:082][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.11.04-09.50.06:105][696]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.50.06:118][696]LogInit: FAudioDevice initialized.
+[2019.11.04-09.50.06:128][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.50.06:129][696]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.50.06:131][696]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.50.06
+[2019.11.04-09.50.06:131][696]LogWorld: Bringing up level for play took: 0.002077
+[2019.11.04-09.50.06:132][696]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.11.04-09.50.06:138][696]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap 0.965
+[2019.11.04-09.50.06:139][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.50.07:105][780]LogBlueprintUserMessages: [None] Loading...
+[2019.11.04-09.50.08:172][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.50.08:173][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.50.08:173][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.50.08:182][880]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.04-09.50.08:229][880]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.50.08:242][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.50.08:242][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.50.08:289][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.11.04-09.50.08:310][881]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.11.04-09.51.02:785][ 28]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.04-09.52.45:514][431]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.52.45:570][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.11.04-09.52.46:396][499]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.04-09.52.46:410][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.52.46:410][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.52.46:410][499]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:52:46 AM)
+[2019.11.04-09.52.46:411][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.52.46:420][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009743s)
+[2019.11.04-09.52.46:421][499]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.52.46:421][499]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2019.11.04-09.52.46:422][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.011078s)
+[2019.11.04-09.52.46:460][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.11.04-09.52.46:484][499]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.52.46:498][499]LogInit: FAudioDevice initialized.
+[2019.11.04-09.52.46:508][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.52.46:508][499]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.52.46:511][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.52.46
+[2019.11.04-09.52.46:511][499]LogWorld: Bringing up level for play took: 0.002528
+[2019.11.04-09.52.46:512][499]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.11.04-09.52.46:519][499]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.655
+[2019.11.04-09.52.46:519][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.52.47:490][576]LogBlueprintUserMessages: [None] Loading...
+[2019.11.04-09.52.51:944][953]LogBlueprintUserMessages: [None] Loading...
+[2019.11.04-09.52.58:789][537]LogBlueprintUserMessages: [None] Loading...
+[2019.11.04-09.53.02:358][844]LogBlueprintUserMessages: [None] Loading...
+[2019.11.04-09.53.08:059][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.53.08:060][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.53.08:060][324]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.53.08:068][324]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.04-09.53.08:116][324]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.53.08:126][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.53.08:127][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.53.08:174][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.11.04-09.53.08:198][325]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.11.04-09.53.31:068][629]LogEditorTransaction: Undo Delete current selection
+[2019.11.04-09.54.36:170][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.04-09.54.36:184][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.54.36:185][ 92]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.04-09.54.36:187][ 92]LogPlayLevel: [PlayLevel] Compiling BP_SaveGameFunctions before play...
+[2019.11.04-09.54.36:247][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.04-09.54.36:248][ 92]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2019.11.04-09.54.36:248][ 92]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:54:36 AM)
+[2019.11.04-09.54.36:248][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.54.36:258][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009577s)
+[2019.11.04-09.54.36:259][ 92]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.54.36:259][ 92]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.11.04-09.54.36:259][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.010893s)
+[2019.11.04-09.54.36:300][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.04-09.54.36:324][ 92]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.54.36:337][ 92]LogInit: FAudioDevice initialized.
+[2019.11.04-09.54.36:348][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.54.36:348][ 92]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.54.36:351][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.54.36
+[2019.11.04-09.54.36:351][ 92]LogWorld: Bringing up level for play took: 0.002181
+[2019.11.04-09.54.36:352][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.11.04-09.54.36:359][ 92]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.815
+[2019.11.04-09.54.36:360][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.54.37:485][184]LogBlueprintUserMessages: [None] Loading...
+[2019.11.04-09.54.42:452][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.54.42:453][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.54.42:453][620]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.54.42:461][620]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.04-09.54.42:508][620]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.54.42:517][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.54.42:517][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.54.42:566][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.11.04-09.54.42:589][621]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.11.04-09.57.45:908][ 65]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.04-09.57.54:080][876]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable NewVar_0 cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.00:701][549]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable StaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.33:719][502]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable NewVar_0 cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.33:719][502]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable StaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.42:876][427]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable InteractablesToLoad cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.42:877][427]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable StaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.47:112][834]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable InteractablesToLoad cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.47:112][834]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable StaticMeshActorsToLoad cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.55:380][627]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable InteractablesToLoad cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.58.55:380][627]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableStaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.59.02:157][273]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.59.02:157][273]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableStaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.59.25:826][513]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-09.59.25:826][513]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableStaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.01.44:413][948]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-10.01.44:413][948]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.01.44:414][948]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableStaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.01.44:416][948]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.01.44:417][948]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableStaticMeshActors cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.01.44:475][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.11.04-10.02.06:092][876]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.06:093][876]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.09:021][131]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-10.02.09:022][131]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.09:022][131]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.09:025][131]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.09:026][131]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.09:083][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.11.04-10.02.09:987][197]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions71273A14483DE78C0DC9E3B2F3241ADE.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-10.02.14:981][610]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.14:981][610]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.19:927][ 34]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.19:928][ 34]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.24:737][419]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-10.02.24:737][419]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.24:737][419]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.24:740][419]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.24:740][419]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableMeshes cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.24:797][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.11.04-10.02.36:784][349]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.04-10.02.36:832][349]LogBlueprint: Error: [Compiler BP_SaveGameFunctions] The variable LoadableInteractables cannot be declared in FunctionLibrary  BP_SaveGameFunctions
+[2019.11.04-10.02.39:493][482]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.04-10.03.23:639][331]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions0863B5C744FBE2A21EF69A990D416449.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-10.03.24:111][367]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-10.03.24:171][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.04-10.03.24:719][404]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions9ACA507F44EB049470867084AE36B435.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
