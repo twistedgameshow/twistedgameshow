@@ -1007,3 +1007,440 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.04-08.10.59:249][981]LogSlate: Window 'Submit Files' being destroyed
 [2019.11.04-08.11.05:719][684]SourceControl: Source control is disabled
 [2019.11.04-08.11.06:934][824]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.04-08.16.55:452][826]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_B_C (BP_Switch_A7)
+[2019.11.04-08.16.56:430][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-08.16.56:548][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerInteractables/Switch/BP_Switch_B.BP_Switch_B
+[2019.11.04-08.16.57:085][941]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.04-08.16.58:584][941]LogSlate: Took 0.008169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.04-08.17.02:497][236]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerInteractables/BP_BasePlayerInteractable.BP_BasePlayerInteractable
+[2019.11.04-08.20.08:180][156]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.04-08.20.08:193][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.08:193][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-08.20.08:193][156]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 6:20:08 AM)
+[2019.11.04-08.20.08:193][156]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-08.20.08:199][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005179s)
+[2019.11.04-08.20.08:200][156]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-08.20.08:200][156]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2019.11.04-08.20.08:200][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.006587s)
+[2019.11.04-08.20.08:241][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.04-08.20.08:266][156]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-08.20.08:279][156]LogInit: FAudioDevice initialized.
+[2019.11.04-08.20.08:287][156]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-08.20.08:289][156]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-19.20.08
+[2019.11.04-08.20.08:289][156]LogWorld: Bringing up level for play took: 0.001256
+[2019.11.04-08.20.08:289][156]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.04-08.20.08:293][156]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.881
+[2019.11.04-08.20.08:293][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.32:163][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.32:184][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-08.20.32:184][ 17]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-08.20.32:185][ 17]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-08.20.32:195][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-08.20.32:195][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.32:237][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-08.20.32:241][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.11.04-08.20.32:270][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.04-08.20.33:142][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.04-08.20.33:150][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.33:150][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-08.20.33:151][120]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 6:20:33 AM)
+[2019.11.04-08.20.33:151][120]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-08.20.33:156][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004988s)
+[2019.11.04-08.20.33:157][120]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-08.20.33:157][120]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2019.11.04-08.20.33:157][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.006250s)
+[2019.11.04-08.20.33:193][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.04-08.20.33:217][120]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-08.20.33:230][120]LogInit: FAudioDevice initialized.
+[2019.11.04-08.20.33:230][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.04-08.20.33:240][120]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-08.20.33:241][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-19.20.33
+[2019.11.04-08.20.33:241][120]LogWorld: Bringing up level for play took: 0.001257
+[2019.11.04-08.20.33:242][120]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.04-08.20.33:244][120]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap 0.07
+[2019.11.04-08.20.33:245][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.39:600][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.39:601][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-08.20.39:601][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-08.20.39:601][880]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-08.20.39:614][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-08.20.39:614][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-08.20.39:656][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-08.20.39:659][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.04-08.20.39:714][882]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.04-08.21.18:376][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.07.20:672][199]LogActorFactory: Actor Factory created Cube
+[2019.11.04-09.07.20:913][222]LogActorFactory: Actor Factory created Cube
+[2019.11.04-09.07.23:205][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.07.27:381][909]Cmd: EDIT COPY
+[2019.11.04-09.07.27:600][932]Cmd: EDIT PASTE
+[2019.11.04-09.07.29:727][177]Cmd: EDIT COPY
+[2019.11.04-09.07.29:976][204]Cmd: EDIT PASTE
+[2019.11.04-09.07.50:496][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.04-09.07.52:370][218]Cmd: EDIT COPY
+[2019.11.04-09.07.52:572][239]Cmd: EDIT PASTE
+[2019.11.04-09.07.59:023][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.11.04-09.08.08:254][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.04-09.08.08:941][ 65]Cmd: EDIT COPY
+[2019.11.04-09.08.09:200][ 93]Cmd: EDIT PASTE
+[2019.11.04-09.08.13:938][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.08.13:971][647]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.04-09.08.13:980][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.13:980][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.08.13:980][647]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:08:13 AM)
+[2019.11.04-09.08.13:980][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.08.13:987][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006075s)
+[2019.11.04-09.08.13:987][647]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.08.13:988][647]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.11.04-09.08.13:988][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.007448s)
+[2019.11.04-09.08.14:027][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.04-09.08.14:052][647]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.08.14:065][647]LogInit: FAudioDevice initialized.
+[2019.11.04-09.08.14:071][647]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.08.14:073][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.08.14
+[2019.11.04-09.08.14:073][647]LogWorld: Bringing up level for play took: 0.001441
+[2019.11.04-09.08.14:073][647]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.04-09.08.14:076][647]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap 0.902
+[2019.11.04-09.08.14:076][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.19:902][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.19:902][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.08.19:902][343]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.08.19:903][343]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.08.19:912][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.08.19:912][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.19:953][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.08.19:957][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.04-09.08.20:015][345]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.04-09.08.20:958][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.04-09.08.26:826][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.08.32:963][678]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.04-09.08.32:971][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.32:972][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.08.32:972][678]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:08:32 AM)
+[2019.11.04-09.08.32:972][678]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.08.32:978][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005624s)
+[2019.11.04-09.08.32:979][678]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.08.32:979][678]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2019.11.04-09.08.32:979][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.006932s)
+[2019.11.04-09.08.33:015][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.11.04-09.08.33:039][678]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.08.33:052][678]LogInit: FAudioDevice initialized.
+[2019.11.04-09.08.33:059][678]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.08.33:060][678]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.08.33
+[2019.11.04-09.08.33:061][678]LogWorld: Bringing up level for play took: 0.001450
+[2019.11.04-09.08.33:061][678]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.11.04-09.08.33:064][678]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.11
+[2019.11.04-09.08.33:064][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.46:513][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.46:513][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.08.46:514][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.08.46:514][284]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.08.46:524][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.08.46:524][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.08.46:567][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.08.46:570][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.11.04-09.08.46:632][286]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.04-09.09.12:599][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.04-09.09.12:852][566]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap_Auto185F026914E58E44567DAB5A7463740A8.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Maps/TestingMap_Auto1.umap'
+[2019.11.04-09.09.12:855][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestingMap' took 0.290
+[2019.11.04-09.09.12:855][566]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2019.11.04-09.09.20:540][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.09.23:960][702]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.04-09.09.25:478][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.09.33:482][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.09.35:621][ 36]Cmd: EDIT COPY
+[2019.11.04-09.09.35:816][ 58]Cmd: EDIT PASTE
+[2019.11.04-09.09.44:361][ 58]Cmd: EDIT COPY
+[2019.11.04-09.09.44:613][ 87]Cmd: EDIT PASTE
+[2019.11.04-09.09.47:374][407]Cmd: EDIT COPY
+[2019.11.04-09.09.47:631][435]Cmd: EDIT PASTE
+[2019.11.04-09.09.50:402][757]Cmd: DELETE
+[2019.11.04-09.09.50:402][757]Cmd: ACTOR DELETE
+[2019.11.04-09.09.50:421][757]LogEditorActor: Deleted Actor: Brush
+[2019.11.04-09.09.50:459][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.11.04-09.09.50:464][757]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.11.04-09.09.51:495][872]Cmd: EDIT COPY
+[2019.11.04-09.09.51:714][897]Cmd: EDIT PASTE
+[2019.11.04-09.09.56:668][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.09.58:232][611]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.04-09.10.06:799][550]Cmd: EDIT COPY
+[2019.11.04-09.10.07:042][576]Cmd: EDIT PASTE
+[2019.11.04-09.10.14:783][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.10.14:849][487]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.04-09.10.14:857][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.10.14:858][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.10.14:858][487]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:10:14 AM)
+[2019.11.04-09.10.14:858][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.10.14:868][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009887s)
+[2019.11.04-09.10.14:869][487]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.10.14:869][487]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.11.04-09.10.14:869][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.011222s)
+[2019.11.04-09.10.14:907][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.04-09.10.14:931][487]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.10.14:944][487]LogInit: FAudioDevice initialized.
+[2019.11.04-09.10.14:948][487]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.10.14:950][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.10.14
+[2019.11.04-09.10.14:951][487]LogWorld: Bringing up level for play took: 0.001830
+[2019.11.04-09.10.14:951][487]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.11.04-09.10.14:954][487]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.219
+[2019.11.04-09.10.14:955][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.10.30:757][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.10.30:758][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.10.30:758][370]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.10.30:758][370]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.10.30:768][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.10.30:768][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.10.30:811][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.10.30:815][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.04-09.10.30:875][372]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.04-09.10.36:526][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.12.08:181][563]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.04-09.12.21:590][931]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Checkpoints/SaveGameFunctions.SaveGameFunctions
+[2019.11.04-09.13.21:764][830]BlueprintLog: New page: Compile SaveGameFunctions
+[2019.11.04-09.13.21:817][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.04-09.16.11:515][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.04-09.16.11:523][ 23]LogMetaData: Removing '/Game/Checkpoints/BP_SaveGameFunctions.BP_SaveGameFunctions:SaveAbsolutleyEverything.K2Node_FunctionEntry_0' ref from Metadata '/Game/Checkpoints/SaveGameFunctions.PackageMetaData'
+[2019.11.04-09.16.11:645][ 23]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions1E88F18E401EC38E933B55B9624E9044.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.16.12:085][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.11.04-09.16.12:168][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.04-09.16.12:203][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.04-09.16.19:110][198]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.04-09.16.34:389][982]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Checkpoints/BP_TGS_Checkpoint_SaveGame.BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.16.42:725][917]LogBlueprint: Warning: [Compiler BP_TGS_Checkpoint_SaveGame] Variable Slot Number is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.11.04-09.16.45:099][145]LogSlate: Took 0.009000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.04-09.17.33:088][439]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.17.33:130][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.11.04-09.17.33:857][514]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGameA74179894180D37185D3D5B8D9183407.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.18.50:839][134]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Checkpoints/EmbeddedData/S_Switch_Data.S_Switch_Data
+[2019.11.04-09.19.29:204][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.11.04-09.19.29:425][155]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap_Auto29E0D40F3444A7D4A436D3898F1BDAC69.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Maps/TestingMap_Auto2.umap'
+[2019.11.04-09.19.29:428][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestingMap' took 0.263
+[2019.11.04-09.19.29:428][155]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.263
+[2019.11.04-09.19.29:430][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Checkpoints/BP_SaveGameFunctions] ([1] browsable assets)...
+[2019.11.04-09.19.29:430][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoints/BP_SaveGameFunctions]
+[2019.11.04-09.19.29:437][155]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions_Auto2E006061A47C862DA8C56199B241CA8E7.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Checkpoints/BP_SaveGameFunctions_Auto2.uasset'
+[2019.11.04-09.19.29:439][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Checkpoints/EmbeddedData/S_Switch_Data] ([1] browsable assets)...
+[2019.11.04-09.19.29:439][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoints/EmbeddedData/S_Switch_Data]
+[2019.11.04-09.19.29:442][155]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_Switch_Data_Auto2CBE383094724FB83EE291885F6DC40AE.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Checkpoints/EmbeddedData/S_Switch_Data_Auto2.uasset'
+[2019.11.04-09.19.29:443][155]LogFileHelpers: Auto-saving content packages took 0.014
+[2019.11.04-09.21.30:947][619]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_Switch_Data94CB28DF435E6283592D94ABC655CA19.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_Switch_Data.uasset'
+[2019.11.04-09.22.26:708][695]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.04-09.22.51:447][444]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.22.51:486][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.04-09.22.51:919][487]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGameAFEB9D0043A85664714B6E9D94B83A20.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.23.01:475][598]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.23.01:517][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.11.04-09.23.02:025][648]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGame26D957F04DDF7FB4C1C7A2B7B5D8B20F.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.23.09:340][425]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.23.09:341][425]LogClass: Warning: Type mismatch in Player Data of BP_TGS_Checkpoint_SaveGame_C - Previous (ObjectProperty) Current(BoolProperty) for package:  FObjectReader
+[2019.11.04-09.23.09:384][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.04-09.23.52:023][342]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_Switch_DataF40AF54449F439F29BED5AB3139AF073.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_Switch_Data.uasset'
+[2019.11.04-09.23.54:309][582]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.23.54:349][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.04-09.24.02:786][482]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.24.02:826][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.04-09.24.04:561][680]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGame4C45FF6C40D3FEDE133A5090E816F4F4.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.26.50:906][827]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.26.50:947][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.11.04-09.27.07:525][668]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Checkpoints/EmbeddedData/S_PlayerData.S_PlayerData
+[2019.11.04-09.27.27:011][956]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_PlayerData6B0635A04E7402580D17718A78DD33EF.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_PlayerData.uasset'
+[2019.11.04-09.27.36:721][ 10]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.27.36:722][ 10]LogClass: Warning: Type mismatch in Player Data of BP_TGS_Checkpoint_SaveGame_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2019.11.04-09.27.36:762][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.04-09.27.37:897][135]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGameCB2ABD314C7A9B1D699E33BB86C68043.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.27.44:495][893]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.27.44:536][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.11.04-09.27.45:037][944]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions2C3AF703435C9DB701B0CD9816D88BD4.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.28.43:179][436]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_PlayerData15DB470F432D9318F2B56398C359596F.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_PlayerData.uasset'
+[2019.11.04-09.28.48:564][ 26]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.28.48:605][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.04-09.28.49:769][153]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions6BE49BB64726BED808812F93377956E2.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.29.10:844][412]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.29.10:887][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.04-09.29.11:438][467]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctionsBAB074A44B5A2F14BCA7E3933C8E831B.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.29.31:591][737]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_PlayerData4AF0D82B4644CA068AE6ACA827DF7A28.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_PlayerData.uasset'
+[2019.11.04-09.29.41:888][930]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_Switch_DataBC08200842E3BDED93526D812E5D7233.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_Switch_Data.uasset'
+[2019.11.04-09.29.45:194][305]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Checkpoints/EmbeddedData/S_PhysicsMesh_Data.S_PhysicsMesh_Data
+[2019.11.04-09.30.36:148][287]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_Switch_DataC19339E24E967C45BDFC1D9E20FDA43F.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_Switch_Data.uasset'
+[2019.11.04-09.30.37:780][443]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_PlayerData8EBE047F445AFDC72330119CB3F35682.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_PlayerData.uasset'
+[2019.11.04-09.30.39:434][624]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_PhysicsMesh_Data9BBE22614C10632F95665683BB9940F6.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_PhysicsMesh_Data.uasset'
+[2019.11.04-09.32.05:491][912]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.04-09.32.12:644][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.11.04-09.32.14:837][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.34.24:607][892]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.34.24:660][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.11.04-09.34.25:321][928]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions39560D4A41CF728AD34634B88441CA49.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.34.29:880][330]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_PhysicsMesh_Data200E9EF54F8F1497EFF4C5B52F5F87F8.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_PhysicsMesh_Data.uasset'
+[2019.11.04-09.36.19:531][ 35]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.04-09.36.36:611][241]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.36.36:660][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.11.04-09.36.37:128][271]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctionsE0B033CE4000E827AB49ECACD3A6A51B.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.36.59:542][565]LogMetaData: Removing '/Game/Checkpoints/EmbeddedData/S_Interactable_Data.S_Interactable_Data' ref from Metadata '/Game/Checkpoints/EmbeddedData/S_Switch_Data.PackageMetaData'
+[2019.11.04-09.36.59:542][565]LogMetaData: Removing '/Game/Checkpoints/EmbeddedData/S_Interactable_Data.S_Interactable_Data:ValidData_8_942E1D23459F67B7D5CE2181FC161FE1' ref from Metadata '/Game/Checkpoints/EmbeddedData/S_Switch_Data.PackageMetaData'
+[2019.11.04-09.36.59:543][565]LogMetaData: Removing '/Game/Checkpoints/EmbeddedData/S_Interactable_Data.S_Interactable_Data:State_1_F934015E402D2A7D8F31538A95D6BDC6' ref from Metadata '/Game/Checkpoints/EmbeddedData/S_Switch_Data.PackageMetaData'
+[2019.11.04-09.36.59:543][565]LogMetaData: Removing '/Game/Checkpoints/EmbeddedData/S_Interactable_Data.S_Interactable_Data:ID_5_AE214FB746D22E06849C32A2B029ED2A' ref from Metadata '/Game/Checkpoints/EmbeddedData/S_Switch_Data.PackageMetaData'
+[2019.11.04-09.36.59:653][565]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/S_Interactable_DataCA1D31FD47BF12C7D5388EA43CD13889.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/EmbeddedData/S_Interactable_Data.uasset'
+[2019.11.04-09.37.00:095][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.04-09.37.00:180][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.11.04-09.37.00:218][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.04-09.37.00:284][565]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGameCE4A68BB4743EB4B42B387BC18973509.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.37.00:310][565]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctionsA53D8ADB420A1AB1C529DDBC10F0AA7A.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.37.22:074][572]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.37.22:115][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.11.04-09.37.22:525][601]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGame7FF28E6748BBE73846F1E3910B2429D3.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.39.57:096][393]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.04-09.40.26:927][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.04-09.40.27:155][143]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap_Auto3D4E8F8FA4227C34C275A2888BC7A5AB2.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Maps/TestingMap_Auto3.umap'
+[2019.11.04-09.40.27:158][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestingMap' took 0.274
+[2019.11.04-09.40.27:159][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2019.11.04-09.40.27:160][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Checkpoints/BP_SaveGameFunctions] ([1] browsable assets)...
+[2019.11.04-09.40.27:160][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoints/BP_SaveGameFunctions]
+[2019.11.04-09.40.27:189][143]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions_Auto33A009C9547A3431DBCD1E3AFC73376AE.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Checkpoints/BP_SaveGameFunctions_Auto3.uasset'
+[2019.11.04-09.40.27:190][143]LogFileHelpers: Auto-saving content packages took 0.030
+[2019.11.04-09.41.07:728][867]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.04-09.41.17:575][685]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.41.17:625][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.04-09.41.18:363][745]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGame67889A8D440BBB204D657798755F1156.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.45.16:605][539]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.45.16:654][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.11.04-09.45.17:650][595]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctions1A9BB6E74CEB9B133173FD97B2C82D7F.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.45.32:007][884]BlueprintLog: New page: Compile BP_TGS_Checkpoint_SaveGame
+[2019.11.04-09.45.32:061][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.04-09.45.32:691][933]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_TGS_Checkpoint_SaveGameE61ECF75405A03E158FCC2A403D60618.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_TGS_Checkpoint_SaveGame.uasset'
+[2019.11.04-09.46.06:333][363]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.46.06:385][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.04-09.46.06:975][397]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctionsD76B81D542FEE8FDCDA333AE2D76162D.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
+[2019.11.04-09.46.11:802][809]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap
+[2019.11.04-09.46.32:274][535]BlueprintLog: New page: Compile TestingMap
+[2019.11.04-09.46.32:489][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.04-09.46.32:861][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.04-09.46.33:091][560]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap13E2E90345DB94C7EDFD62983E2D2E02.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap.umap'
+[2019.11.04-09.46.33:109][560]LogFileHelpers: Saving map 'TestingMap' took 0.289
+[2019.11.04-09.46.34:778][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.46.34:779][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.46.34:779][692]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:46:34 AM)
+[2019.11.04-09.46.34:779][692]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.46.34:789][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009702s)
+[2019.11.04-09.46.34:790][692]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.46.34:790][692]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2019.11.04-09.46.34:790][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.011193s)
+[2019.11.04-09.46.34:829][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.11.04-09.46.34:854][692]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.46.34:867][692]LogInit: FAudioDevice initialized.
+[2019.11.04-09.46.34:891][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.46.34:891][692]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.46.34:893][692]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.46.34
+[2019.11.04-09.46.34:894][692]LogWorld: Bringing up level for play took: 0.002042
+[2019.11.04-09.46.34:894][692]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.11.04-09.46.34:902][692]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.271
+[2019.11.04-09.46.34:903][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.46.36:736][863]LogBlueprintUserMessages: [None] Checkpoint...
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Cube_2, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor2, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor3, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor4, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor5, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor6, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Floor7, Valid = true.
+[2019.11.04-09.46.36:769][863]LogBlueprintUserMessages: [None] Cube2_11, Valid = true.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] Cube3, Valid = true.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] Cube4, Valid = true.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] Cube5, Valid = true.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] Cube6, Valid = true.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] BP_Switch_A_5, State = false.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] BP_Switch_A2, State = false.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] BP_Switch_A3, State = false.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] BP_Switch_A4, State = false.
+[2019.11.04-09.46.36:770][863]LogBlueprintUserMessages: [None] BP_Switch_A5, State = false.
+[2019.11.04-09.46.36:771][863]LogBlueprintUserMessages: [None] BP_Switch_A6, State = false.
+[2019.11.04-09.46.36:771][863]LogBlueprintUserMessages: [None] BP_Switch_A7, State = false.
+[2019.11.04-09.46.36:771][863]LogBlueprintUserMessages: [None] BP_Switch_A8, State = false.
+[2019.11.04-09.46.36:773][863]LogBlueprintUserMessages: [None] Done!
+[2019.11.04-09.46.40:135][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.46.40:136][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.46.40:136][208]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.46.40:144][208]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.04-09.46.40:191][208]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.46.40:205][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.46.40:205][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.46.40:250][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.04-09.46.40:272][209]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.04-09.46.43:062][534]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.04-09.46.43:076][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.46.43:077][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.04-09.46.43:077][534]PIE: New page: PIE session: TestingMap (Nov 5, 2019, 7:46:43 AM)
+[2019.11.04-09.46.43:077][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.46.43:087][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009631s)
+[2019.11.04-09.46.43:088][534]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.04-09.46.43:088][534]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2019.11.04-09.46.43:088][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.010919s)
+[2019.11.04-09.46.43:123][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.04-09.46.43:147][534]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.04-09.46.43:160][534]LogInit: FAudioDevice initialized.
+[2019.11.04-09.46.43:171][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.46.43:171][534]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.04-09.46.43:174][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.04-20.46.43
+[2019.11.04-09.46.43:174][534]LogWorld: Bringing up level for play took: 0.002583
+[2019.11.04-09.46.43:175][534]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.11.04-09.46.43:181][534]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap 0.007
+[2019.11.04-09.46.43:182][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.46.55:967][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.04-09.47.09:518][815]LogBlueprintUserMessages: [None] Checkpoint...
+[2019.11.04-09.47.09:518][815]LogBlueprintUserMessages: [None] Floor, Valid = true.
+[2019.11.04-09.47.09:518][815]LogBlueprintUserMessages: [None] Cube_2, Valid = true.
+[2019.11.04-09.47.09:518][815]LogBlueprintUserMessages: [None] Floor2, Valid = true.
+[2019.11.04-09.47.09:518][815]LogBlueprintUserMessages: [None] Floor3, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Floor4, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Floor5, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Floor6, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Floor7, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Cube2_11, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Cube3, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Cube4, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Cube5, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] Cube6, Valid = true.
+[2019.11.04-09.47.09:519][815]LogBlueprintUserMessages: [None] BP_Switch_A_5, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A2, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A3, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A4, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A5, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A6, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A7, State = false.
+[2019.11.04-09.47.09:520][815]LogBlueprintUserMessages: [None] BP_Switch_A8, State = false.
+[2019.11.04-09.47.09:522][815]LogBlueprintUserMessages: [None] Done!
+[2019.11.04-09.47.15:512][282]LogBlueprintUserMessages: [None] Checkpoint...
+[2019.11.04-09.47.15:512][282]LogBlueprintUserMessages: [None] Floor, Valid = true.
+[2019.11.04-09.47.15:512][282]LogBlueprintUserMessages: [None] Cube_2, Valid = true.
+[2019.11.04-09.47.15:512][282]LogBlueprintUserMessages: [None] Floor2, Valid = true.
+[2019.11.04-09.47.15:512][282]LogBlueprintUserMessages: [None] Floor3, Valid = true.
+[2019.11.04-09.47.15:512][282]LogBlueprintUserMessages: [None] Floor4, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Floor5, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Floor6, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Floor7, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Cube2_11, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Cube3, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Cube4, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Cube5, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] Cube6, Valid = true.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] BP_Switch_A_5, State = false.
+[2019.11.04-09.47.15:513][282]LogBlueprintUserMessages: [None] BP_Switch_A2, State = false.
+[2019.11.04-09.47.15:514][282]LogBlueprintUserMessages: [None] BP_Switch_A3, State = false.
+[2019.11.04-09.47.15:514][282]LogBlueprintUserMessages: [None] BP_Switch_A4, State = false.
+[2019.11.04-09.47.15:514][282]LogBlueprintUserMessages: [None] BP_Switch_A5, State = false.
+[2019.11.04-09.47.15:514][282]LogBlueprintUserMessages: [None] BP_Switch_A6, State = false.
+[2019.11.04-09.47.15:514][282]LogBlueprintUserMessages: [None] BP_Switch_A7, State = false.
+[2019.11.04-09.47.15:514][282]LogBlueprintUserMessages: [None] BP_Switch_A8, State = false.
+[2019.11.04-09.47.15:516][282]LogBlueprintUserMessages: [None] Done!
+[2019.11.04-09.47.23:874][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.47.23:874][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.04-09.47.23:874][418]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.04-09.47.23:883][418]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.04-09.47.23:931][418]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.04-09.47.23:946][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.04-09.47.23:946][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.04-09.47.23:995][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.11.04-09.47.24:019][419]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.04-09.47.50:115][167]BlueprintLog: New page: Compile BP_SaveGameFunctions
+[2019.11.04-09.47.50:167][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.11.04-09.47.50:827][230]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_SaveGameFunctionsF5395C2A406315232CCE62929E20313E.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Checkpoints/BP_SaveGameFunctions.uasset'
