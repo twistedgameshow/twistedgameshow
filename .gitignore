@@ -77,3 +77,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 TwistedGameShow/Saved/Logs/TwistedGameShow.log
 TwistedGameShow/Intermediate/CachedAssetRegistry.bin
+TwistedGameShow/Saved/Logs/TwistedGameShow.log
+*.log
