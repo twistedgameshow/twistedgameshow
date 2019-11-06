@@ -18781,3 +18781,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.06-09.35.06:968][805]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.11.06-09.35.15:873][683]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.11.06-09.35.25:483][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.06-09.40.54:615][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.11.06-09.40.54:867][146]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap_Auto58905E8DC48AA2CC50C5833A27C918273.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Maps/TestingMap_Auto5.umap'
+[2019.11.06-09.40.54:871][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestingMap' took 0.291
+[2019.11.06-09.40.54:871][146]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.291
+[2019.11.06-09.49.13:484][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-09.49.31:706][968]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\school\gameProgramming\models\fireSpawner.fbx)
+[2019.11.06-09.49.31:721][968]LogFbx: Loading FBX Scene from F:\school\gameProgramming\models\fireSpawner.fbx
+[2019.11.06-09.49.31:729][968]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.06-09.49.34:314][968]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.06-09.49.34:384][968]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.11.06-09.49.34:411][968]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2019.11.06-09.49.34:411][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2019.11.06-09.49.34:411][968]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2019.11.06-09.49.34:411][968]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2019.11.06-09.49.34:411][968]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2019.11.06-09.49.34:412][968]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2019.11.06-09.49.34:412][968]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.11.06-09.49.34:412][968]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.11.06-09.49.34:412][968]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2019.11.06-09.49.34:427][968]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.11.06-09.49.34:434][968]LogStaticMesh: Building static mesh fireSpawner...
+[2019.11.06-09.49.34:443][968]LogStaticMesh: Built static mesh [0.01s] /Game/Traps/FireTrap/Meshes/fireSpawner.fireSpawner
+[2019.11.06-09.49.34:457][968]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.06-09.49.34:848][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2019.11.06-09.49.35:396][  8]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2019.11.06-09.49.35:435][  8]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2019.11.06-09.49.35:541][  9]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2019.11.06-09.49.35:799][ 20]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2019.11.06-09.49.36:110][ 29]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2019.11.06-09.49.36:219][ 34]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2019.11.06-09.49.36:304][ 35]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2019.11.06-09.49.36:304][ 35]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2019.11.06-09.49.36:324][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.11.06-09.49.36:380][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2019.11.06-09.49.36:707][ 52]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.11.06-09.49.36:853][ 56]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.11.06-09.49.36:858][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.11.06-09.49.38:086][ 56]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.06-09.49.38:850][101]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Traps/FireTrap/Meshes/fireSpawner.fireSpawner
+[2019.11.06-09.49.58:754][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-09.50.04:963][626]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/fireSpawner3717B5A046F18401692B569578CBE44A.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/Meshes/fireSpawner.uasset'
+[2019.11.06-09.50.09:334][910]LogEditorFactories: Performing atomic reimport of [F:/school/gameProgramming/models/fireSpawner.fbx]
+[2019.11.06-09.50.09:444][910]LogFbx: Loading FBX Scene from F:/school/gameProgramming/models/fireSpawner.fbx
+[2019.11.06-09.50.09:451][910]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.06-09.50.09:452][910]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.11.06-09.50.09:509][910]LogStaticMesh: Building static mesh fireSpawner...
+[2019.11.06-09.50.09:518][910]LogStaticMesh: Built static mesh [0.01s] /Game/Traps/FireTrap/Meshes/fireSpawner.fireSpawner
+[2019.11.06-09.50.09:572][910]LogEditorFactories: -- imported successfully
+[2019.11.06-09.50.09:574][910]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.06-09.50.10:623][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.11.06-09.50.11:879][943]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.06-09.50.12:168][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.11.06-09.50.12:776][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.06-09.50.13:594][975]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.06-09.50.13:888][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.11.06-09.50.17:375][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.06-09.50.18:000][238]LogSlate: Window 'Save Content' being destroyed
+[2019.11.06-09.50.18:139][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.06-09.50.18:383][238]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMapCBEEE866470FF6550FC0AEAD27844DC4.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap.umap'
+[2019.11.06-09.50.18:406][238]LogFileHelpers: Saving map 'TestingMap' took 0.303
+[2019.11.06-09.50.18:433][238]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/fireSpawner43BC571F427224AE99316194D8762C2F.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/Meshes/fireSpawner.uasset'
+[2019.11.06-09.50.25:116][416]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.06-09.50.30:510][836]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Traps/FireTrap/BP_FireTrap.BP_FireTrap
+[2019.11.06-09.50.55:011][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.06-09.51.06:536][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-09.51.26:501][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-09.51.50:288][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-09.52.04:133][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-09.53.16:753][591]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-09.53.17:009][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
