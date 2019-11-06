@@ -75,8 +75,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-TwistedGameShow/Saved/Logs/TwistedGameShow.log
-TwistedGameShow/Intermediate/CachedAssetRegistry.bin
-TwistedGameShow/Saved/Logs/TwistedGameShow.log
-*.log
+TwistedGameShow/Saved/Logs/*
 TwistedGameShow/Saved/AutoScreenshot.png
+TwistedGameShow/Intermediate/CachedAssetRegistry.bin
+*.log
