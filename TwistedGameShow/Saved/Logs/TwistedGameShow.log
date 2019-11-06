@@ -18851,3 +18851,981 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.06-09.52.04:133][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.06-09.53.16:753][591]BlueprintLog: New page: Compile BP_FireTrap
 [2019.11.06-09.53.17:009][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.11.06-09.56.03:625][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/FireTrap/BP_FireTrap" FILE="F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset" SILENT=true
+[2019.11.06-09.56.03:644][625]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_FireTrapFFFF48074142E5C9788CF5B6AECCD978.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset'
+[2019.11.06-09.56.21:004][205]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Fire.P_Fire
+[2019.11.06-09.56.21:139][205]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2019.11.06-09.56.38:283][314]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-09.56.38:608][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.11.06-09.58.34:349][ 24]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-09.58.34:352][ 24]LogBlueprint: Error: [Compiler BP_FireTrap] COMPILER ERROR: failed building connection with 'Array of Names is not compatible with Array of Strings.' at  Get (a copy) generated from expanding For Each Loop
+[2019.11.06-09.58.34:352][ 24]LogBlueprint: Error: [Compiler BP_FireTrap] Can't connect pins  Array  and  Target Array generated from expanding For Each Loop : Array of Strings is not compatible with Array of Names.
+[2019.11.06-09.58.34:354][ 24]LogBlueprint: Error: [Compiler BP_FireTrap] Can't connect pins  Target Array generated from expanding For Each Loop  and  Array : Array of Names is not compatible with Array of Strings.
+[2019.11.06-09.58.34:639][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.11.06-09.58.43:143][577]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-09.58.43:145][577]LogBlueprint: Error: [Compiler BP_FireTrap] COMPILER ERROR: failed building connection with 'Array of Names is not compatible with Array of Strings.' at  Get (a copy) generated from expanding For Each Loop
+[2019.11.06-09.58.43:146][577]LogBlueprint: Error: [Compiler BP_FireTrap] Can't connect pins  Array  and  Target Array generated from expanding For Each Loop : Array of Strings is not compatible with Array of Names.
+[2019.11.06-09.58.43:146][577]LogBlueprint: Error: [Compiler BP_FireTrap] Can't connect pins  Target Array generated from expanding For Each Loop  and  Array : Array of Names is not compatible with Array of Strings.
+[2019.11.06-09.58.43:417][577]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.11.06-09.59.38:912][269]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-09.59.39:190][269]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.11.06-09.59.55:738][467]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-09.59.56:014][467]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.11.06-10.00.05:984][114]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-10.00.06:265][114]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.11.06-10.00.31:682][829]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-10.00.31:971][829]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2019.11.06-10.00.32:143][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/FireTrap/BP_FireTrap" FILE="F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset" SILENT=true
+[2019.11.06-10.00.32:171][834]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_FireTrap5F86F54B4F5784391CA148BDDDE829B0.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset'
+[2019.11.06-10.02.12:372][ 71]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-10.02.12:658][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.11.06-10.02.13:247][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/FireTrap/BP_FireTrap" FILE="F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset" SILENT=true
+[2019.11.06-10.02.13:280][104]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_FireTrap7E477DE54CB3821CDC710AA9075740E1.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset'
+[2019.11.06-10.02.24:548][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.02.34:541][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.02.34:777][748]LogActorFactory: Actor Factory created Cube
+[2019.11.06-10.02.35:351][786]LogActorFactory: Actor Factory created Cube
+[2019.11.06-10.02.38:330][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.02.55:491][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.03.00:786][635]LogEditorViewport: Clicking on Actor (LMB): BP_FireTrap_C (BP_FireTrap)
+[2019.11.06-10.03.01:766][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.06-10.03.07:629][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.03.07:850][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.11.06-10.03.08:147][ 52]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap8C3DD72A4C2CAA3701C1B7B231A315F3.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap.umap'
+[2019.11.06-10.03.08:172][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMap_BuiltData" FILE="F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap_BuiltData.uasset" SILENT=true
+[2019.11.06-10.03.08:224][ 52]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap_BuiltData5038A481407B528853E06DA1D6A04644.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap_BuiltData.uasset'
+[2019.11.06-10.03.11:587][234]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_B_C (FireActivator)
+[2019.11.06-10.03.12:886][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.03.18:168][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.03.18:168][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.06-10.03.18:169][525]PIE: New page: SIE session: TestingMap (Nov 7, 2019, 8:03:18 AM)
+[2019.11.06-10.03.18:169][525]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.03.18:182][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012703s)
+[2019.11.06-10.03.18:183][525]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.06-10.03.18:183][525]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2019.11.06-10.03.18:183][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.014651s)
+[2019.11.06-10.03.18:225][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.11.06-10.03.18:250][525]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-10.03.18:264][525]LogInit: FAudioDevice initialized.
+[2019.11.06-10.03.18:272][525]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.06-10.03.18:274][525]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.06-21.03.18
+[2019.11.06-10.03.18:275][525]LogWorld: Bringing up level for play took: 0.002106
+[2019.11.06-10.03.18:275][525]LogOnline: OSS: Creating online subsystem instance for: :Context_125
+[2019.11.06-10.03.18:277][525]LogBlueprintUserMessages: [TestingMap_C_5] Press 1 to save checkpoint, press 2 to save checkpoint.
+[2019.11.06-10.03.18:277][525]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap 0.401
+[2019.11.06-10.03.18:284][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.03.21:273][743]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_B_C (FireActivator)
+[2019.11.06-10.03.22:760][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.03.30:673][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.06-10.06.55:210][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.06-10.07.01:275][835]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_B_C (SpikeActivator)
+[2019.11.06-10.07.02:793][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.11.54:222][366]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.06-10.12.04:511][347]LogEditorViewport: Clicking on Actor (LMB): BP_FireTrap_C (BP_FireTrap)
+[2019.11.06-10.12.06:666][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.12.08:881][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.12.08:882][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.12.08:882][728]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.12.08:883][728]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.12.08:908][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.06-10.12.08:908][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.12.08:954][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.12.08:960][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.11.06-10.12.09:005][729]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2019.11.06-10.12.24:481][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.12.31:701][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.12.40:476][408]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-10.12.40:967][408]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.11.06-10.20.00:946][721]BlueprintLog: New page: Compile BP_FireTrap
+[2019.11.06-10.20.01:255][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.11.06-10.20.23:555][151]LogTemp: Repeating last play command: Simulate
+[2019.11.06-10.20.23:568][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.20.23:568][151]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.06-10.20.23:569][151]LogPlayLevel: [PlayLevel] Compiling BP_FireTrap before play...
+[2019.11.06-10.20.23:881][151]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2019.11.06-10.20.23:881][151]LogPlayLevel: PlayLevel: Blueprint regeneration took 312 ms (1 blueprints)
+[2019.11.06-10.20.23:882][151]PIE: New page: SIE session: TestingMap (Nov 7, 2019, 8:20:23 AM)
+[2019.11.06-10.20.23:882][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.20.23:894][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011249s)
+[2019.11.06-10.20.23:894][151]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.06-10.20.23:895][151]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2019.11.06-10.20.23:895][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.012677s)
+[2019.11.06-10.20.23:938][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.11.06-10.20.23:963][151]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-10.20.23:976][151]LogInit: FAudioDevice initialized.
+[2019.11.06-10.20.23:988][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.06-10.20.23:990][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.06-21.20.23
+[2019.11.06-10.20.23:991][151]LogWorld: Bringing up level for play took: 0.002173
+[2019.11.06-10.20.23:991][151]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2019.11.06-10.20.23:993][151]LogBlueprintUserMessages: [TestingMap_C_5] Press 1 to save checkpoint, press 2 to save checkpoint.
+[2019.11.06-10.20.23:993][151]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap 0.117
+[2019.11.06-10.20.23:995][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.20.24:986][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2019.11.06-10.20.26:725][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.20.32:613][697]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_B_C (FireActivator)
+[2019.11.06-10.20.33:989][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.20.47:975][245]LogBlueprintUserMessages: [BP_FireTrap_2] Player killed
+[2019.11.06-10.20.54:527][854]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1492.090 Y=1093.941 Z=81.790] for [FirstPersonProjectile_C]
+[2019.11.06-10.21.01:695][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.06-10.21.06:926][867]LogEditorViewport: Clicking on Actor (LMB): BP_FireTrap_C (BP_FireTrap)
+[2019.11.06-10.21.07:968][921]LogEditorViewport: Clicking on Actor (LMB): BP_FireTrap_C (BP_FireTrap)
+[2019.11.06-10.21.08:799][960]LogEditorViewport: Clicking on Actor (LMB): BP_FireTrap_C (BP_FireTrap)
+[2019.11.06-10.21.11:129][127]LogEditorViewport: Clicking on Actor (LMB): BP_FireTrap_C (BP_FireTrap)
+[2019.11.06-10.21.11:668][174]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.06-10.21.11:773][175]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (FP_Gun)
+[2019.11.06-10.21.19:753][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.21.25:974][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.21.25:974][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.21.25:974][248]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.21.25:975][248]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.21.25:990][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.06-10.21.25:990][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.21.26:039][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.21.26:046][248]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.11.06-10.21.26:081][249]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2019.11.06-10.22.49:995][635]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.06-10.22.51:374][692]LogTemp: Repeating last play command: Simulate
+[2019.11.06-10.22.51:387][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.22.51:387][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.06-10.22.51:388][692]PIE: New page: SIE session: TestingMap (Nov 7, 2019, 8:22:51 AM)
+[2019.11.06-10.22.51:388][692]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.22.51:400][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011878s)
+[2019.11.06-10.22.51:401][692]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.06-10.22.51:401][692]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.11.06-10.22.51:401][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.013279s)
+[2019.11.06-10.22.51:437][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.06-10.22.51:462][692]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-10.22.51:476][692]LogInit: FAudioDevice initialized.
+[2019.11.06-10.22.51:483][692]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.06-10.22.51:485][692]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.06-21.22.51
+[2019.11.06-10.22.51:486][692]LogWorld: Bringing up level for play took: 0.002282
+[2019.11.06-10.22.51:486][692]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2019.11.06-10.22.51:488][692]LogBlueprintUserMessages: [TestingMap_C_5] Press 1 to save checkpoint, press 2 to save checkpoint.
+[2019.11.06-10.22.51:488][692]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.388
+[2019.11.06-10.22.51:490][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.22.56:558][233]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=879.155 Y=-1599.780 Z=211.984] for [FirstPersonProjectile_C]
+[2019.11.06-10.23.08:153][619]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1241.883 Y=-1799.999 Z=41.180] for [FirstPersonProjectile_C]
+[2019.11.06-10.23.08:780][694]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1249.037 Y=-1800.366 Z=47.235] for [FirstPersonProjectile_C]
+[2019.11.06-10.23.09:106][733]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1247.372 Y=-1805.381 Z=48.477] for [FirstPersonProjectile_C]
+[2019.11.06-10.23.09:950][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.23.09:951][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.23.09:951][834]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.23.09:951][834]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.23.09:964][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.06-10.23.09:964][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.23.10:013][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.23.10:018][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.06-10.23.10:053][835]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2019.11.06-10.23.11:503][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-10.23.11:718][916]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.11.06-10.24.04:989][607]BlueprintLog: New page: Compile FirstPersonProjectile
+[2019.11.06-10.24.05:282][607]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.11.06-10.24.07:451][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.24.07:452][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.06-10.24.07:452][708]PIE: New page: PIE session: TestingMap (Nov 7, 2019, 8:24:07 AM)
+[2019.11.06-10.24.07:452][708]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.24.07:464][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011684s)
+[2019.11.06-10.24.07:465][708]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.06-10.24.07:466][708]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2019.11.06-10.24.07:466][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.013381s)
+[2019.11.06-10.24.07:515][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.11.06-10.24.07:542][708]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-10.24.07:555][708]LogInit: FAudioDevice initialized.
+[2019.11.06-10.24.07:563][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.24.07:563][708]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.06-10.24.07:566][708]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.06-21.24.07
+[2019.11.06-10.24.07:566][708]LogWorld: Bringing up level for play took: 0.002331
+[2019.11.06-10.24.07:567][708]LogOnline: OSS: Creating online subsystem instance for: :Context_132
+[2019.11.06-10.24.07:570][708]LogBlueprintUserMessages: [TestingMap_C_5] Press 1 to save checkpoint, press 2 to save checkpoint.
+[2019.11.06-10.24.07:576][708]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.3
+[2019.11.06-10.24.07:577][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.24.23:881][790]LogBlueprintUserMessages: [BP_Arrow_C_2] Arrow Hit
+[2019.11.06-10.24.23:882][790]LogBlueprintUserMessages: [BP_Arrow_C_3] Arrow Hit
+[2019.11.06-10.24.23:943][794]LogBlueprintUserMessages: [BP_Arrow_C_0] Arrow Hit
+[2019.11.06-10.24.23:943][794]LogBlueprintUserMessages: [BP_Arrow_C_1] Arrow Hit
+[2019.11.06-10.24.33:468][432]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1223.825 Y=-3554.638 Z=95.610] for [FirstPersonProjectile_C]
+[2019.11.06-10.24.39:450][831]LogBlueprintUserMessages: [BP_SpikeTrap_2] Stabbed a player
+[2019.11.06-10.24.54:851][854]LogBlueprintUserMessages: [None] Loading...
+[2019.11.06-10.24.54:852][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:852][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:852][854]LogBlueprintUserMessages: [None] Loading Floor
+[2019.11.06-10.24.54:852][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:853][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:853][854]LogBlueprintUserMessages: [None] Loading Cube_2
+[2019.11.06-10.24.54:853][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:853][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:853][854]LogBlueprintUserMessages: [None] Loading Floor2
+[2019.11.06-10.24.54:854][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:854][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:854][854]LogBlueprintUserMessages: [None] Loading Floor3
+[2019.11.06-10.24.54:854][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:854][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:854][854]LogBlueprintUserMessages: [None] Loading Floor4
+[2019.11.06-10.24.54:855][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:855][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:855][854]LogBlueprintUserMessages: [None] Loading Floor5
+[2019.11.06-10.24.54:855][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:855][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:856][854]LogBlueprintUserMessages: [None] Loading Floor6
+[2019.11.06-10.24.54:856][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.24.54:856][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.24.54:856][854]LogBlueprintUserMessages: [None] Loading Floor7
+[2019.11.06-10.24.54:856][854]LogBlueprintUserMessages: [None] Loading Cube2_11
+[2019.11.06-10.24.54:856][854]LogBlueprintUserMessages: [None] Loading Cube3
+[2019.11.06-10.24.54:857][854]LogBlueprintUserMessages: [None] Loading Cube4
+[2019.11.06-10.24.54:857][854]LogBlueprintUserMessages: [None] Loading Cube5
+[2019.11.06-10.24.54:857][854]LogBlueprintUserMessages: [None] Loading Cube6
+[2019.11.06-10.24.54:857][854]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Checkpoint...
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Floor, Valid = true.
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Cube_2, Valid = true.
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Floor2, Valid = true.
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Floor3, Valid = true.
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Floor4, Valid = true.
+[2019.11.06-10.24.58:980][123]LogBlueprintUserMessages: [None] Floor5, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Floor6, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Floor7, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube2_11, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube3, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube4, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube5, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube6, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Floor8, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube7_3, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube8, Valid = true.
+[2019.11.06-10.24.58:981][123]LogBlueprintUserMessages: [None] Cube9_7, Valid = true.
+[2019.11.06-10.24.58:982][123]LogBlueprintUserMessages: [None] StaticMeshActor_0, Valid = true.
+[2019.11.06-10.24.58:982][123]LogBlueprintUserMessages: [None] StaticMeshActor_1, Valid = true.
+[2019.11.06-10.24.58:982][123]LogBlueprintUserMessages: [None] StaticMeshActor_2, Valid = true.
+[2019.11.06-10.24.58:982][123]LogBlueprintUserMessages: [None] StaticMeshActor_3, Valid = true.
+[2019.11.06-10.24.58:982][123]LogBlueprintUserMessages: [None] BP_Switch_A4, State = true.
+[2019.11.06-10.24.58:982][123]LogBlueprintUserMessages: [None] BP_Switch_A3, State = true.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] BP_Switch_A_5, State = false.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] BP_Switch_A2, State = false.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] ArrowActivator, State = false.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] BP_Switch_A5, State = false.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] BP_Switch_A6, State = true.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] BP_Switch_A7, State = false.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] BP_Switch_A8, State = true.
+[2019.11.06-10.24.58:983][123]LogBlueprintUserMessages: [None] SpikeActivator, State = true.
+[2019.11.06-10.24.58:984][123]LogBlueprintUserMessages: [None] FireActivator, State = false.
+[2019.11.06-10.24.58:986][123]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.25.05:117][530]LogBlueprintUserMessages: [None] Checkpoint...
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Cube_2, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor2, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor3, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor4, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor5, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor6, Valid = true.
+[2019.11.06-10.25.05:118][530]LogBlueprintUserMessages: [None] Floor7, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube2_11, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube3, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube4, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube5, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube6, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Floor8, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube7_3, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube8, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] Cube9_7, Valid = true.
+[2019.11.06-10.25.05:119][530]LogBlueprintUserMessages: [None] StaticMeshActor_0, Valid = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] StaticMeshActor_1, Valid = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] StaticMeshActor_2, Valid = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] StaticMeshActor_3, Valid = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] BP_Switch_A4, State = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] BP_Switch_A3, State = false.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] BP_Switch_A_5, State = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] BP_Switch_A2, State = true.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] ArrowActivator, State = false.
+[2019.11.06-10.25.05:120][530]LogBlueprintUserMessages: [None] BP_Switch_A5, State = true.
+[2019.11.06-10.25.05:121][530]LogBlueprintUserMessages: [None] BP_Switch_A6, State = false.
+[2019.11.06-10.25.05:121][530]LogBlueprintUserMessages: [None] BP_Switch_A7, State = false.
+[2019.11.06-10.25.05:121][530]LogBlueprintUserMessages: [None] BP_Switch_A8, State = false.
+[2019.11.06-10.25.05:121][530]LogBlueprintUserMessages: [None] SpikeActivator, State = true.
+[2019.11.06-10.25.05:121][530]LogBlueprintUserMessages: [None] FireActivator, State = false.
+[2019.11.06-10.25.05:123][530]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.25.13:755][117]LogBlueprintUserMessages: [None] Loading...
+[2019.11.06-10.25.13:756][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:756][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:756][117]LogBlueprintUserMessages: [None] Loading Floor
+[2019.11.06-10.25.13:757][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:757][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:757][117]LogBlueprintUserMessages: [None] Loading Cube_2
+[2019.11.06-10.25.13:757][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:757][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:758][117]LogBlueprintUserMessages: [None] Loading Floor2
+[2019.11.06-10.25.13:758][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:758][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:758][117]LogBlueprintUserMessages: [None] Loading Floor3
+[2019.11.06-10.25.13:758][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:758][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:759][117]LogBlueprintUserMessages: [None] Loading Floor4
+[2019.11.06-10.25.13:759][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:759][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:759][117]LogBlueprintUserMessages: [None] Loading Floor5
+[2019.11.06-10.25.13:759][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:759][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:760][117]LogBlueprintUserMessages: [None] Loading Floor6
+[2019.11.06-10.25.13:760][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:760][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:760][117]LogBlueprintUserMessages: [None] Loading Floor7
+[2019.11.06-10.25.13:760][117]LogBlueprintUserMessages: [None] Loading Cube2_11
+[2019.11.06-10.25.13:761][117]LogBlueprintUserMessages: [None] Loading Cube3
+[2019.11.06-10.25.13:761][117]LogBlueprintUserMessages: [None] Loading Cube4
+[2019.11.06-10.25.13:761][117]LogBlueprintUserMessages: [None] Loading Cube5
+[2019.11.06-10.25.13:761][117]LogBlueprintUserMessages: [None] Loading Cube6
+[2019.11.06-10.25.13:761][117]LogBlueprintUserMessages: [None] Loading Floor8
+[2019.11.06-10.25.13:761][117]LogBlueprintUserMessages: [None] Loading Cube7_3
+[2019.11.06-10.25.13:762][117]LogBlueprintUserMessages: [None] Loading Cube8
+[2019.11.06-10.25.13:762][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube9_7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.13:762][117]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube9_7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.13:762][117]LogBlueprintUserMessages: [None] Loading Cube9_7
+[2019.11.06-10.25.13:762][117]LogBlueprintUserMessages: [None] Loading StaticMeshActor_0
+[2019.11.06-10.25.13:762][117]LogBlueprintUserMessages: [None] Loading StaticMeshActor_1
+[2019.11.06-10.25.13:763][117]LogBlueprintUserMessages: [None] Loading StaticMeshActor_2
+[2019.11.06-10.25.13:763][117]LogBlueprintUserMessages: [None] Loading StaticMeshActor_3
+[2019.11.06-10.25.13:763][117]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Checkpoint...
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Floor, Valid = true.
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Cube_2, Valid = true.
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Floor2, Valid = true.
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Floor3, Valid = true.
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Floor4, Valid = true.
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Floor5, Valid = true.
+[2019.11.06-10.25.19:049][468]LogBlueprintUserMessages: [None] Floor6, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Floor7, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube2_11, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube3, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube4, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube5, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube6, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Floor8, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube7_3, Valid = true.
+[2019.11.06-10.25.19:050][468]LogBlueprintUserMessages: [None] Cube8, Valid = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] Cube9_7, Valid = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] StaticMeshActor_0, Valid = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] StaticMeshActor_1, Valid = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] StaticMeshActor_2, Valid = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] StaticMeshActor_3, Valid = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A4, State = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A3, State = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A_5, State = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A2, State = true.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] ArrowActivator, State = false.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A5, State = false.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A6, State = false.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A7, State = false.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] BP_Switch_A8, State = false.
+[2019.11.06-10.25.19:051][468]LogBlueprintUserMessages: [None] SpikeActivator, State = true.
+[2019.11.06-10.25.19:052][468]LogBlueprintUserMessages: [None] FireActivator, State = false.
+[2019.11.06-10.25.19:054][468]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.25.22:565][704]LogBlueprintUserMessages: [None] Loading...
+[2019.11.06-10.25.22:566][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:566][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:566][704]LogBlueprintUserMessages: [None] Loading Floor
+[2019.11.06-10.25.22:566][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:566][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:567][704]LogBlueprintUserMessages: [None] Loading Cube_2
+[2019.11.06-10.25.22:567][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:567][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:567][704]LogBlueprintUserMessages: [None] Loading Floor2
+[2019.11.06-10.25.22:567][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:568][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:568][704]LogBlueprintUserMessages: [None] Loading Floor3
+[2019.11.06-10.25.22:568][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:568][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:568][704]LogBlueprintUserMessages: [None] Loading Floor4
+[2019.11.06-10.25.22:569][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:569][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:569][704]LogBlueprintUserMessages: [None] Loading Floor5
+[2019.11.06-10.25.22:569][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:569][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:570][704]LogBlueprintUserMessages: [None] Loading Floor6
+[2019.11.06-10.25.22:570][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:570][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:570][704]LogBlueprintUserMessages: [None] Loading Floor7
+[2019.11.06-10.25.22:570][704]LogBlueprintUserMessages: [None] Loading Cube2_11
+[2019.11.06-10.25.22:571][704]LogBlueprintUserMessages: [None] Loading Cube3
+[2019.11.06-10.25.22:571][704]LogBlueprintUserMessages: [None] Loading Cube4
+[2019.11.06-10.25.22:571][704]LogBlueprintUserMessages: [None] Loading Cube5
+[2019.11.06-10.25.22:571][704]LogBlueprintUserMessages: [None] Loading Cube6
+[2019.11.06-10.25.22:571][704]LogBlueprintUserMessages: [None] Loading Floor8
+[2019.11.06-10.25.22:571][704]LogBlueprintUserMessages: [None] Loading Cube7_3
+[2019.11.06-10.25.22:572][704]LogBlueprintUserMessages: [None] Loading Cube8
+[2019.11.06-10.25.22:572][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube9_7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.25.22:572][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube9_7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.25.22:572][704]LogBlueprintUserMessages: [None] Loading Cube9_7
+[2019.11.06-10.25.22:572][704]LogBlueprintUserMessages: [None] Loading StaticMeshActor_0
+[2019.11.06-10.25.22:573][704]LogBlueprintUserMessages: [None] Loading StaticMeshActor_1
+[2019.11.06-10.25.22:573][704]LogBlueprintUserMessages: [None] Loading StaticMeshActor_2
+[2019.11.06-10.25.22:573][704]LogBlueprintUserMessages: [None] Loading StaticMeshActor_3
+[2019.11.06-10.25.22:574][704]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.25.24:081][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.25.24:081][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.25.24:082][801]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.25.24:092][801]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.06-10.25.24:140][801]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.25.24:154][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.06-10.25.24:155][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.25.24:210][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.06-10.25.24:251][802]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2019.11.06-10.26.01:229][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.11.06-10.26.01:537][122]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap_Auto6526572454757001BED14B5AA40B3D579.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Maps/TestingMap_Auto6.umap'
+[2019.11.06-10.26.01:543][122]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestingMap' took 0.357
+[2019.11.06-10.26.01:543][122]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.357
+[2019.11.06-10.26.01:545][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile] ([1] browsable assets)...
+[2019.11.06-10.26.01:576][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile]
+[2019.11.06-10.26.01:577][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile]
+[2019.11.06-10.26.01:604][122]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/FirstPersonProjectile_Auto6214F8C6447BD14F5A88F3E84ECCDCCA6.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonProjectile_Auto6.uasset'
+[2019.11.06-10.26.01:606][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Traps/FireTrap/BP_FireTrap] ([1] browsable assets)...
+[2019.11.06-10.26.01:627][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/FireTrap/BP_FireTrap.BP_FireTrap]
+[2019.11.06-10.26.01:627][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Traps/FireTrap/BP_FireTrap]
+[2019.11.06-10.26.01:674][122]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_FireTrap_Auto690F4D53C4A1FFBAEE028B8BE2B328936.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/Autosaves/Game/Traps/FireTrap/BP_FireTrap_Auto6.uasset'
+[2019.11.06-10.26.01:675][122]LogFileHelpers: Auto-saving content packages took 0.131
+[2019.11.06-10.26.58:900][613]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.06-10.26.58:917][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.26.58:917][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.06-10.26.58:917][613]PIE: New page: PIE session: TestingMap (Nov 7, 2019, 8:26:58 AM)
+[2019.11.06-10.26.58:918][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.26.58:929][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011167s)
+[2019.11.06-10.26.58:930][613]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.06-10.26.58:930][613]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2019.11.06-10.26.58:930][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.012582s)
+[2019.11.06-10.26.58:976][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.11.06-10.26.59:000][613]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-10.26.59:012][613]LogInit: FAudioDevice initialized.
+[2019.11.06-10.26.59:021][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.26.59:021][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.06-10.26.59:024][613]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.06-21.26.59
+[2019.11.06-10.26.59:024][613]LogWorld: Bringing up level for play took: 0.002703
+[2019.11.06-10.26.59:025][613]LogOnline: OSS: Creating online subsystem instance for: :Context_133
+[2019.11.06-10.26.59:028][613]LogBlueprintUserMessages: [TestingMap_C_6] Press 1 to save checkpoint, press 2 to save checkpoint.
+[2019.11.06-10.26.59:033][613]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.843
+[2019.11.06-10.26.59:034][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.27.19:016][948]LogBlueprintUserMessages: [None] Loading...
+[2019.11.06-10.27.19:017][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:017][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:018][948]LogBlueprintUserMessages: [None] Loading Floor
+[2019.11.06-10.27.19:018][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:018][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:018][948]LogBlueprintUserMessages: [None] Loading Cube_2
+[2019.11.06-10.27.19:018][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:019][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor2 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:019][948]LogBlueprintUserMessages: [None] Loading Floor2
+[2019.11.06-10.27.19:019][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:019][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor3 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:019][948]LogBlueprintUserMessages: [None] Loading Floor3
+[2019.11.06-10.27.19:020][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:020][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor4 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:020][948]LogBlueprintUserMessages: [None] Loading Floor4
+[2019.11.06-10.27.19:021][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:021][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor5 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:021][948]LogBlueprintUserMessages: [None] Loading Floor5
+[2019.11.06-10.27.19:021][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:021][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor6 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:022][948]LogBlueprintUserMessages: [None] Loading Floor6
+[2019.11.06-10.27.19:022][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:022][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Floor7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:022][948]LogBlueprintUserMessages: [None] Loading Floor7
+[2019.11.06-10.27.19:022][948]LogBlueprintUserMessages: [None] Loading Cube2_11
+[2019.11.06-10.27.19:022][948]LogBlueprintUserMessages: [None] Loading Cube3
+[2019.11.06-10.27.19:023][948]LogBlueprintUserMessages: [None] Loading Cube4
+[2019.11.06-10.27.19:023][948]LogBlueprintUserMessages: [None] Loading Cube5
+[2019.11.06-10.27.19:023][948]LogBlueprintUserMessages: [None] Loading Cube6
+[2019.11.06-10.27.19:023][948]LogBlueprintUserMessages: [None] Loading Floor8
+[2019.11.06-10.27.19:023][948]LogBlueprintUserMessages: [None] Loading Cube7_3
+[2019.11.06-10.27.19:023][948]LogBlueprintUserMessages: [None] Loading Cube8
+[2019.11.06-10.27.19:023][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube9_7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.06-10.27.19:023][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_TestingMap.TestingMap:PersistentLevel.Cube9_7 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2019.11.06-10.27.19:024][948]LogBlueprintUserMessages: [None] Loading Cube9_7
+[2019.11.06-10.27.19:024][948]LogBlueprintUserMessages: [None] Done!
+[2019.11.06-10.27.27:549][498]LogBlueprintUserMessages: [BP_Arrow_C_0] Arrow Hit
+[2019.11.06-10.27.27:549][498]LogBlueprintUserMessages: [BP_Arrow_C_1] Arrow Hit
+[2019.11.06-10.27.27:549][498]LogBlueprintUserMessages: [BP_Arrow_C_2] Arrow Hit
+[2019.11.06-10.27.27:550][498]LogBlueprintUserMessages: [BP_Arrow_C_3] Arrow Hit
+[2019.11.06-10.27.33:862][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.27.33:863][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-10.27.33:863][899]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-10.27.33:874][899]LogSlate: Window 'TwistedGameShow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.06-10.27.33:920][899]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.33:934][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.06-10.27.33:934][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-10.27.33:989][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.11.06-10.27.34:024][900]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2019.11.06-10.27.44:913][218]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/FirstPersonProjectileA3DF71C443F6D5784EEA3396D57DD6A3.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.11.06-10.27.46:027][279]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.11.06-10.27.46:074][279]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.11.06-10.27.46:085][279]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.46:254][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.06-10.27.46:254][279]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.46:387][279]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.46:588][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.06-10.27.46:588][279]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.46:673][279]LogCascade: Quitting Cascade. FXSystem=0x0000012DB35B1480
+[2019.11.06-10.27.46:693][279]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.46:740][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.06-10.27.46:740][279]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.46:893][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.06-10.27.48:240][279]LogSlate: Window 'Save Content' being destroyed
+[2019.11.06-10.27.48:416][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.11.06-10.27.48:677][279]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/TestingMap42B15E674D2A1FEE7B24B890548D2921.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Maps/TestingMap.umap'
+[2019.11.06-10.27.48:699][279]LogFileHelpers: Saving map 'TestingMap' took 0.355
+[2019.11.06-10.27.48:702][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/FireTrap/BP_FireTrap" FILE="F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset" SILENT=true
+[2019.11.06-10.27.48:738][279]LogSavePackage: Moving 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Saved/BP_FireTrap31F8D64842A11158087E7993C2754A6A.tmp' to 'F:/school/gameProgramming/TwistedGS_git_real/twistedgameshow/TwistedGameShow/Content/Traps/FireTrap/BP_FireTrap.uasset'
+[2019.11.06-10.27.48:861][279]LogSlate: Window 'Output Log' being destroyed
+[2019.11.06-10.27.49:903][279]LogSlate: Window 'TwistedGameShow - Unreal Editor' being destroyed
+[2019.11.06-10.27.49:946][279]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.06-10.27.50:412][280]Cmd: QUIT_EDITOR
+[2019.11.06-10.27.51:048][280]LogExit: Preparing to exit.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:384][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:385][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.06-10.27.51:386][280]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-10.27.51:412][280]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.06-10.27.51:460][280]LogExit: Editor shut down
+[2019.11.06-10.27.51:462][280]LogExit: Transaction tracking system shut down
+[2019.11.06-10.27.52:075][280]LogExit: Object subsystem successfully closed.
+[2019.11.06-10.27.52:119][280]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module DistCurveEditor (686)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module Cascade (684)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (682)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (680)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module MeshBuilder (678)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module BlueprintGraph (676)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (668)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.11.06-10.27.52:371][280]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.11.06-10.27.52:373][280]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.11.06-10.27.52:374][280]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.11.06-10.27.52:374][280]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.11.06-10.27.52:374][280]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.11.06-10.27.52:374][280]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.11.06-10.27.52:374][280]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.11.06-10.27.52:374][280]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.11.06-10.27.52:388][280]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.11.06-10.27.52:394][280]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.11.06-10.27.52:394][280]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.11.06-10.27.52:394][280]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.11.06-10.27.52:394][280]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.11.06-10.27.52:394][280]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.11.06-10.27.52:394][280]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.11.06-10.27.52:414][280]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.11.06-10.27.52:414][280]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.11.06-10.27.52:414][280]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.11.06-10.27.52:417][280]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.11.06-10.27.52:417][280]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.11.06-10.27.52:417][280]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.11.06-10.27.52:417][280]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.11.06-10.27.52:417][280]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.11.06-10.27.52:417][280]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.11.06-10.27.52:421][280]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.11.06-10.27.52:432][280]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.11.06-10.27.52:443][280]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.11.06-10.27.52:448][280]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.11.06-10.27.52:450][280]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.11.06-10.27.52:450][280]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.11.06-10.27.52:450][280]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.11.06-10.27.52:450][280]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.11.06-10.27.52:450][280]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.11.06-10.27.52:451][280]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.11.06-10.27.52:451][280]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.11.06-10.27.52:569][280]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.11.06-10.27.52:569][280]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.11.06-10.27.52:569][280]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.11.06-10.27.52:569][280]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.11.06-10.27.52:570][280]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.11.06-10.27.52:570][280]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.11.06-10.27.52:570][280]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.11.06-10.27.52:576][280]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.11.06-10.27.52:577][280]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.11.06-10.27.52:577][280]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.11.06-10.27.52:577][280]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.11.06-10.27.52:577][280]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.11.06-10.27.52:588][280]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.11.06-10.27.52:588][280]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.11.06-10.27.52:594][280]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.11.06-10.27.52:595][280]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.11.06-10.27.52:639][280]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.11.06-10.27.52:639][280]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.11.06-10.27.52:651][280]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.11.06-10.27.52:665][280]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.11.06-10.27.52:665][280]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.11.06-10.27.52:665][280]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.11.06-10.27.52:665][280]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.11.06-10.27.52:673][280]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.11.06-10.27.52:683][280]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.11.06-10.27.52:683][280]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.11.06-10.27.52:683][280]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.11.06-10.27.52:692][280]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.11.06-10.27.52:692][280]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.11.06-10.27.52:692][280]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.11.06-10.27.52:692][280]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.11.06-10.27.52:695][280]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.11.06-10.27.52:695][280]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.11.06-10.27.52:701][280]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.11.06-10.27.52:701][280]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.11.06-10.27.52:721][280]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.11.06-10.27.52:721][280]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.11.06-10.27.52:723][280]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.11.06-10.27.52:724][280]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.11.06-10.27.52:727][280]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.11.06-10.27.52:843][280]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.11.06-10.27.52:849][280]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.06-10.27.52:850][280]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.06-10.27.52:850][280]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.11.06-10.27.52:850][280]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.11.06-10.27.52:850][280]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.11.06-10.27.52:858][280]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.11.06-10.27.52:869][280]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.11.06-10.27.52:869][280]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.11.06-10.27.52:880][280]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.11.06-10.27.52:883][280]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.11.06-10.27.52:894][280]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.11.06-10.27.52:908][280]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.11.06-10.27.52:908][280]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.11.06-10.27.52:908][280]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.11.06-10.27.52:908][280]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.11.06-10.27.52:908][280]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.06-10.27.52:908][280]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.06-10.27.53:009][280]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.06-10.27.53:110][280]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.06-10.27.53:110][280]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.06-10.27.53:111][280]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.06-10.27.53:122][280]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.06-10.27.53:128][280]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.06-10.27.53:128][280]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.06-10.27.53:128][280]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.06-10.27.53:128][280]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.06-10.27.53:129][280]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.06-10.27.53:131][280]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.06-10.27.53:131][280]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.06-10.27.53:131][280]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.06-10.27.53:131][280]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.06-10.27.53:131][280]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.06-10.27.53:134][280]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.06-10.27.53:134][280]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.06-10.27.53:134][280]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.06-10.27.53:134][280]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.06-10.27.53:134][280]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.06-10.27.53:153][280]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.06-10.27.53:153][280]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.06-10.27.53:153][280]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.06-10.27.53:153][280]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.06-10.27.53:160][280]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.06-10.27.53:173][280]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.06-10.27.53:173][280]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.06-10.27.53:184][280]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.06-10.27.53:184][280]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.06-10.27.53:184][280]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.06-10.27.53:184][280]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.06-10.27.53:188][280]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.06-10.27.53:188][280]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.06-10.27.53:205][280]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.06-10.27.53:205][280]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.06-10.27.53:213][280]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.06-10.27.53:213][280]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.06-10.27.53:213][280]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.06-10.27.53:215][280]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.06-10.27.53:235][280]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.06-10.27.53:256][280]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.06-10.27.53:256][280]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.06-10.27.53:268][280]LogDerivedDataCache: Shutdown
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.06-10.27.53:268][280]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.06-10.27.53:276][280]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.06-10.27.53:276][280]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.06-10.27.53:281][280]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.06-10.27.53:288][280]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.06-10.27.53:288][280]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.06-10.27.53:288][280]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.06-10.27.53:288][280]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.06-10.27.53:288][280]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.06-10.27.53:291][280]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.06-10.27.53:291][280]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.06-10.27.53:294][280]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.06-10.27.53:294][280]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.06-10.27.53:323][280]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.06-10.27.53:323][280]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.06-10.27.53:323][280]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.06-10.27.53:323][280]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.06-10.27.53:323][280]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.06-10.27.53:324][280]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.06-10.27.53:324][280]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.06-10.27.53:326][280]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.06-10.27.53:336][280]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.06-10.27.53:374][280]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.06-10.27.53:374][280]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.11.06-10.27.53:374][280]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF66139C3-4106-C23C-081D-82A884705069%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=db3d519a4762e9bcbdc7938e8de22564%7C8fe50a05946d409e948681b224076a35%7C579fcd99-485f-43b9-9189-1aaaac7b95f3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.06-10.27.53:374][280]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF66139C3-4106-C23C-081D-82A884705069%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=db3d519a4762e9bcbdc7938e8de22564%7C8fe50a05946d409e948681b224076a35%7C579fcd99-485f-43b9-9189-1aaaac7b95f3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.06-10.27.53:396][280]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.06-10.27.53:398][280]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.06-10.27.53:418][280]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.06-10.27.53:419][280]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.06-10.27.53:419][280]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.06-10.27.53:419][280]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.06-10.27.53:419][280]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.06-10.27.53:419][280]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.06-10.27.53:419][280]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.06-10.27.53:432][280]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.06-10.27.53:434][280]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.06-10.27.53:435][280]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.06-10.27.53:435][280]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.06-10.27.53:435][280]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.06-10.27.53:435][280]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.06-10.27.53:438][280]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.06-10.27.53:446][280]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.06-10.27.53:450][280]LogD3D11RHI: Shutdown
+[2019.11.06-10.27.53:450][280]LogD3D11RHI: CleanupD3DDevice
+[2019.11.06-10.27.53:459][280]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.06-10.27.53:459][280]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.06-10.27.53:459][280]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.06-10.27.53:848][280]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.06-10.27.53:862][280]LogExit: Exiting.
+[2019.11.06-10.27.53:920][280]Log file closed, 11/06/19 21:27:53
