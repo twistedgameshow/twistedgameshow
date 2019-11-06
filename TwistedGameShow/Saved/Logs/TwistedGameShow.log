@@ -18010,3 +18010,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.06-08.50.44:668][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.06-08.50.46:160][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.06-08.50.46:240][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.06-08.52.52:922][464]LogTemp: Repeating last play command: Simulate
+[2019.11.06-08.52.52:938][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-08.52.52:939][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.06-08.52.52:939][464]PIE: New page: SIE session: TestingMap (Nov 7, 2019, 6:52:52 AM)
+[2019.11.06-08.52.52:939][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-08.52.52:950][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010952s)
+[2019.11.06-08.52.52:951][464]LogAIModule: Creating AISystem for world TestingMap
+[2019.11.06-08.52.52:951][464]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2019.11.06-08.52.52:951][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMap.TestingMap to /Game/Maps/UEDPIE_0_TestingMap.TestingMap (0.012362s)
+[2019.11.06-08.52.52:991][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.11.06-08.52.53:016][464]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-08.52.53:030][464]LogInit: FAudioDevice initialized.
+[2019.11.06-08.52.53:042][464]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.06-08.52.53:044][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2019.11.06-19.52.53
+[2019.11.06-08.52.53:044][464]LogWorld: Bringing up level for play took: 0.001700
+[2019.11.06-08.52.53:044][464]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2019.11.06-08.52.53:046][464]LogBlueprintUserMessages: [TestingMap_C_6] Press 1 to save checkpoint, press 2 to save checkpoint.
+[2019.11.06-08.52.53:047][464]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingMap -0.83
+[2019.11.06-08.52.53:048][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-08.52.53:050][464]LogBlueprintUserMessages: [BP_Arrow_C_0] Arrow Hit
+[2019.11.06-08.52.53:050][464]LogBlueprintUserMessages: [BP_Arrow_C_1] Arrow Hit
+[2019.11.06-08.52.53:050][464]LogBlueprintUserMessages: [BP_Arrow_C_2] Arrow Hit
+[2019.11.06-08.52.53:051][464]LogBlueprintUserMessages: [BP_Arrow_C_3] Arrow Hit
+[2019.11.06-08.52.54:617][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-08.52.54:617][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-08.52.54:617][585]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingMap
+[2019.11.06-08.52.54:619][585]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.06-08.52.54:643][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.06-08.52.54:643][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMap.TestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap' with GeneratedClass '/Game/Maps/TestingMap.TestingMap_C' with ClassGeneratedBy '/Game/Maps/TestingMap.TestingMap:PersistentLevel.TestingMap'
+[2019.11.06-08.52.54:684][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-08.52.54:688][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.11.06-08.52.54:722][587]LogPlayLevel: Display: Destroying online subsystem :Context_98
