@@ -79,3 +79,5 @@ TwistedGameShow/Saved/Logs/*
 TwistedGameShow/Saved/AutoScreenshot.png
 TwistedGameShow/Intermediate/CachedAssetRegistry.bin
 *.log
+TwistedGameShow/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+TwistedGameShow/Saved/Config/Windows/EditorPerProjectUserSettings.ini
