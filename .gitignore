@@ -76,3 +76,4 @@ TwistedGameShow/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 TwistedGameShow/DerivedDataCache/*
 
+TwistedGameShow/Saved/SaveGames/saved_world.sav
